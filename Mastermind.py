@@ -37,7 +37,7 @@ def game():
         randNum+=str(random.randint(1,6))
 
     randNumLst=list(randNum)
-    print(randNum)
+
     print("\n")
     
     playing=True
